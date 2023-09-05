@@ -40,4 +40,4 @@ Create a link with the following params
 example to send eth: `http://localhost:1234/?action=send&chainId=4&to=0xdD4c825203f97984e7867F11eeCc813A036089D1&value=100000000000000`
 
 example to interact with contract: `http://localhost:1234/?action=send&chainId=4&to=0x7286Cf0F6E80014ea75Dbc25F545A3be90F4904F&value=0&data=0xb76b97230000000000000000000000000000000000000000000000000000000000000001`
-# alice-mobile-wallet
+
